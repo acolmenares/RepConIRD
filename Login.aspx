@@ -7,7 +7,7 @@
        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
        <meta name="author" content="Ricardo Ortiz"/>
        <meta name="description" content="Operaciones y Monitoreo"/>
-       <title>Acceso al Sistema de Consultas y Reportes de los Módulos de IRD</title>
+       <title>Acceso al Sistema de Consultas y Reportes de los Módulos de BLUMONT</title>
        <link rel="stylesheet" type="text/css" media="all" href="Styles/main1.css"/>
        <link rel="stylesheet" type="text/css" media="all" href="colorschemes/colorscheme9/colorscheme.css"/>
        <link rel="stylesheet" type="text/css" media="all" href="Styles/style1.css"/>
@@ -81,7 +81,7 @@
                                     </tr>
                                 </table>
                             </div>
-                            <div id="footer_text">SIIRD , SAGIRD , SAFIRD, WEB Service</div>
+                            <div id="footer_text"></div>
                         </div>
                     </td>
                 </tr>
